@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40444#The-Union--Or-Select-Scots-and-English-Poems
 gutenberg_issued: '2012-08-08'
 gutenberg_type: Text
 identifiers:
